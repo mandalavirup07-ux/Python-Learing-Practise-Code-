@@ -1,2 +1,4 @@
 #Printing
-print("Hello World!")  here you will get output like this:- Hello World!
+print("Hello World!")  
+# After writing the code press shift+F10 in keyboard if your are in PyCharm
+# here you will get output like this:- HelloAvirupMandal 
